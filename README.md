@@ -2,9 +2,7 @@
 # Akshat Simejiya
 
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Developer;Wordpress%20Developer;Web%20Developer;Ui/Ux%20Designer;Web%20Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=76D7CC&vCenter=true&pause=1000&size=22" /></a>
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Wordpress+Developer;Web+Developer;Ui/Ux+Designer;Web+Enthusiast)](https://git.io/typing-svg)
 </p>
 
 <!--
