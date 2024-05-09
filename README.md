@@ -1,4 +1,11 @@
 ### Hi there 👋
+# Akshat Simejiya
+
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full%30Stack%20Developer;Wordpress%20Developer;Web%20Developer;Ui/Ux%20Designer;Web%20Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=76D7CC&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
 <!--
 **SimejiyaAkshat/SimejiyaAkshat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
