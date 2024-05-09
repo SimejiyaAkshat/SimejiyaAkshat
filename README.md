@@ -25,7 +25,7 @@ I am a passionate web enthusiast and full-stack developer with a relentless driv
 #
 
 ![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimejiyaAkshat&show_icons=true&theme=graywhite)
-
+[![Akshat's op Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimejiyaAkshat&theme=graywhite)]
 <!--
 **SimejiyaAkshat/SimejiyaAkshat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
