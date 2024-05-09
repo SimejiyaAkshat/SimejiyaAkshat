@@ -1,9 +1,7 @@
 ### Hi there 👋
 # Akshat Simejiya
 
-<p align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Wordpress+Developer;Web+Developer;Ui/Ux+Designer;Web+Enthusiast)](https://git.io/typing-svg)
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full+Stack+Developer;Wordpress+Developer;Web+Developer;Ui%2FUx+Designer;Web+Enthusiast)](https://git.io/typing-svg)
 
 <!--
 **SimejiyaAkshat/SimejiyaAkshat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
