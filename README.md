@@ -1,6 +1,6 @@
 ### Hi there 👋
 # Akshat Simejiya
-
+![](https://komarev.com/ghpvc/?username=SimejiyaAkshat)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full+Stack+Developer;Wordpress+Developer;Web+Developer;Ui%2FUx+Designer;Web+Enthusiast)](https://git.io/typing-svg)
 
 I am a passionate web enthusiast and full-stack developer with a relentless drive to build and code. With a keen eye for detail and a love for problem-solving. From crafting elegant front-end interfaces to developing back-end systems, I am dedicated to creating seamless digital experiences.
