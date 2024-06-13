@@ -5,8 +5,6 @@
 
 I am a passionate web enthusiast and full-stack developer with a relentless drive to build and code. With a keen eye for detail and a love for problem-solving. From crafting elegant front-end interfaces to developing back-end systems, I am dedicated to creating seamless digital experiences.
 
-![](https://komarev.com/ghpvc/?username=SimejiiyaAkshat)
-
 ---
 
 ### 🧰 Languages and Tools
